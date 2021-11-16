@@ -40,6 +40,7 @@ function init(self)
 			print(('Step: %d - x: %d - y: %d'):format(count, node.x, node.y))
 		end
 	else
-		print("pouet")
+		print("No path!")
 	end
+	
 end
